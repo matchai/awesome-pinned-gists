@@ -2,7 +2,6 @@
   <img src="https://user-images.githubusercontent.com/4658208/54562655-cd9fb600-499d-11e9-885c-314229ae71a2.png" width="400">
   <h3 align="center">Awesome Pinned Gists</h3>
   <p align="center">A curated list of open source tools for adding dynamic data to pinned gists.<p>
-
   <p align="center">
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome Lists"></a>
   </p>
