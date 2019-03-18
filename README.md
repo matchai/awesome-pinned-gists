@@ -4,6 +4,7 @@
   <p align="center">A curated list of open source tools for adding dynamic data to pinned gists.<p>
   <p align="center">
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome Lists"></a>
+    <a href="https://travis-ci.com/matchai/awesome-pinned-gists"><img src="https://badgen.net/travis/matchai/awesome-pinned-gists" alt="Build Status"></a>
   </p>
 </p>
 
