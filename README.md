@@ -8,7 +8,7 @@
   </p>
 </p>
 
-## Table of Contents
+## Contents
 
 - [External Services](#external-services)
 - [GitHub](#github)
