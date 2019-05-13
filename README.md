@@ -17,20 +17,20 @@
 
 Displaying data from external services in a pinned gist.
 
-- [bird-box](https://github.com/matchai/bird-box) - Update a pinned gist to contain the latest tweets of a Twitter user
-- [waka-box](https://github.com/matchai/waka-box) - Update a pinned gist to contain your weekly WakaTime stats
+- [bird-box](https://github.com/matchai/bird-box) - Update a pinned gist to contain the latest tweets of a Twitter user.
+- [waka-box](https://github.com/matchai/waka-box) - Update a pinned gist to contain your weekly WakaTime stats.
 
 ## GitHub
 
 Displaying more detailed GitHub user data in a pinned gist.
 
-- [activity-box](https://github.com/JasonEtco/activity-box) - Update a pinned gist to contain the latest activity of a GitHub user
+- [activity-box](https://github.com/JasonEtco/activity-box) - Update a pinned gist to contain the latest activity of a GitHub user.
 
 ## Resources
 
 Resources for keeping pinned gists updated.
 
-- [gist-box](https://github.com/JasonEtco/gist-box) - A helper class for updating single-file Gists
+- [gist-box](https://github.com/JasonEtco/gist-box) - A helper class for updating single-file Gists.
 
 ## Contribute
 
