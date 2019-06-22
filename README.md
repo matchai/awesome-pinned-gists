@@ -19,6 +19,7 @@ Displaying data from external services in a pinned gist.
 
 - [bird-box](https://github.com/matchai/bird-box) - Update a pinned gist to contain the latest tweets of a Twitter user.
 - [waka-box](https://github.com/matchai/waka-box) - Update a pinned gist to contain your weekly WakaTime stats.
+- [strava-box](https://github.com/JohnPhamous/strava-box) - Update a gist to contain your YTD Strava distances.
 
 ## GitHub
 
