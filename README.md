@@ -23,7 +23,7 @@ Displaying data from external services in a pinned gist.
 - [music-box](https://github.com/jacc/music-box) - Update a pinned gist to contain your weekly listening report on Last.fm.
 - [rescue-box](https://github.com/joshghent/rescue-box) - Update a pinned gist to contain your daily productivity stats from RescueTime.
 - [neko-box](https://github.com/RangerDigital/neko-box) - Update a pinned gist to contain the latest activity from AniList.
-- [douban-box](https://github.com/CodeDaraW/douban-box) - Update a pinned gist to contain the latest user status about books/movies/musics from Douban.
+- [douban-box](https://github.com/CodeDaraW/douban-box) - Update a pinned gist to contain the latest user status about books/movies/music from Douban.
 
 ## GitHub
 
