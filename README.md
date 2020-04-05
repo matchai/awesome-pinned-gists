@@ -25,13 +25,13 @@ Displaying data from external services in a pinned gist.
 - [neko-box](https://github.com/RangerDigital/neko-box) - Update a pinned gist to contain the latest activity from AniList.
 - [douban-box](https://github.com/CodeDaraW/douban-box) - Update a pinned gist to contain the latest user status about books/movies/music from Douban.
 - [todoist-box](https://github.com/yohix/todoist-box) - Update a pinned gist to contain your Todoist stats.
-- [gh-box](https://github.com/yohix/gh-box) - Update a pinned gist to contain your GitHub profile data.
 
 ## GitHub
 
 Displaying more detailed GitHub user data in a pinned gist.
 
 - [activity-box](https://github.com/JasonEtco/activity-box) - Update a pinned gist to contain the latest activity of a GitHub user.
+- [gh-box](https://github.com/yohix/gh-box) - Update a pinned gist to contain your GitHub profile data.
 
 ## Resources
 
