@@ -26,6 +26,7 @@ Displaying data from external services in a pinned gist.
 - [douban-box](https://github.com/CodeDaraW/douban-box) - Update a pinned gist to contain the latest user status about books/movies/music from Douban.
 - [todoist-box](https://github.com/yohix/todoist-box) - Update a pinned gist to contain your Todoist stats.
 - [movie-box](https://github.com/LuisAlejandro/movie-box) - Update a pinned gist to contain your media center stats from Trakt.tv.
+- [productive-box](https://github.com/maxam2017/productive-box) - Update a pinned gist to contain your most productive hours during the day.
 
 ## GitHub
 
