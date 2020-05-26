@@ -27,6 +27,7 @@ Displaying data from external services in a pinned gist.
 - [todoist-box](https://github.com/yohix/todoist-box) - Update a pinned gist to contain your Todoist stats.
 - [movie-box](https://github.com/LuisAlejandro/movie-box) - Update a pinned gist to contain your media center stats from Trakt.tv.
 - [productive-box](https://github.com/maxam2017/productive-box) - Update a pinned gist to contain your most productive hours during the day.
+- [book-box](https://github.com/amorriscode/book-box) - Update a pinned gist to contain your latest reads from goodreads
 
 ## GitHub
 
