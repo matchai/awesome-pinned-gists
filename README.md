@@ -34,6 +34,7 @@ Displaying more detailed GitHub user data in a pinned gist.
 
 - [activity-box](https://github.com/JasonEtco/activity-box) - Update a pinned gist to contain the latest activity of a GitHub user.
 - [gh-box](https://github.com/yohix/gh-box) - Update a pinned gist to contain your GitHub profile data.
+- [shortcut-box](https://github.com/artemnovichkov/shortcut-box) - 👨‍💻 Update a pinned gist to contain random IDE shortcut
 
 ## Resources
 
