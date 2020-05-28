@@ -28,6 +28,9 @@ Displaying data from external services in a pinned gist.
 - [movie-box](https://github.com/LuisAlejandro/movie-box) - Update a pinned gist to contain your media center stats from Trakt.tv.
 - [productive-box](https://github.com/maxam2017/productive-box) - Update a pinned gist to contain your most productive hours during the day.
 - [covid-box](https://github.com/puf17640/covid-box) - Update a gist to contain global or country specific coronavirus stats.
+- [shortcut-box](https://github.com/artemnovichkov/shortcut-box) - 👨‍💻 Update a pinned gist to contain random IDE shortcut
+- [youtube-box](https://github.com/SinaKhalili/youtube-box) - Update a pinned gist to show your latest YouTube videos
+
 
 ## GitHub
 
@@ -35,7 +38,6 @@ Displaying more detailed GitHub user data in a pinned gist.
 
 - [activity-box](https://github.com/JasonEtco/activity-box) - Update a pinned gist to contain the latest activity of a GitHub user.
 - [gh-box](https://github.com/yohix/gh-box) - Update a pinned gist to contain your GitHub profile data.
-- [shortcut-box](https://github.com/artemnovichkov/shortcut-box) - 👨‍💻 Update a pinned gist to contain random IDE shortcut
 
 ## Resources
 
