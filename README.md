@@ -24,7 +24,7 @@ Displaying data from external services in a pinned gist.
 - [rescue-box](https://github.com/joshghent/rescue-box) - Update a pinned gist to contain your daily productivity stats from RescueTime.
 - [neko-box](https://github.com/RangerDigital/neko-box) - Update a pinned gist to contain the latest activity from AniList.
 - [douban-box](https://github.com/CodeDaraW/douban-box) - Update a pinned gist to contain the latest user status about books/movies/music from Douban.
-- [todoist-box](https://github.com/yohix/todoist-box) - Update a pinned gist to contain your Todoist stats.
+- [todoist-box](https://github.com/yg/todoist-box) - Update a pinned gist to contain your Todoist stats.
 - [movie-box](https://github.com/LuisAlejandro/movie-box) - Update a pinned gist to contain your media center stats from Trakt.tv.
 - [productive-box](https://github.com/maxam2017/productive-box) - Update a pinned gist to contain your most productive hours during the day.
 - [covid-box](https://github.com/puf17640/covid-box) - Update a gist to contain global or country specific coronavirus stats.
@@ -38,7 +38,7 @@ Displaying data from external services in a pinned gist.
 Displaying more detailed GitHub user data in a pinned gist.
 
 - [activity-box](https://github.com/JasonEtco/activity-box) - Update a pinned gist to contain the latest activity of a GitHub user.
-- [gh-box](https://github.com/yohix/gh-box) - Update a pinned gist to contain your GitHub profile data.
+- [gh-box](https://github.com/yg/gh-box) - Update a pinned gist to contain your GitHub profile data.
 
 ## Resources
 
