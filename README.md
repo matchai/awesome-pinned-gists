@@ -31,7 +31,7 @@ Displaying data from external services in a pinned gist.
 - [shortcut-box](https://github.com/artemnovichkov/shortcut-box) - Update a pinned gist to contain random IDE shortcut
 - [youtube-box](https://github.com/SinaKhalili/youtube-box) - Update a pinned gist to show your latest YouTube videos
 - [book-box](https://github.com/amorriscode/book-box) - Update a pinned gist to contain your latest reads from goodreads
-
+- [toggl-box](https://github.com/tobimori/toggl-box) - Update a pinned gist to contain your weekly Toggl time tracking stats
 
 ## GitHub
 
