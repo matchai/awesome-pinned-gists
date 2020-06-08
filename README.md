@@ -32,6 +32,8 @@ Displaying data from external services in a pinned gist.
 - [youtube-box](https://github.com/SinaKhalili/youtube-box) - Update a pinned gist to show your latest YouTube videos
 - [book-box](https://github.com/amorriscode/book-box) - Update a pinned gist to contain your latest reads from goodreads
 - [toggl-box](https://github.com/tobimori/toggl-box) - Update a pinned gist to contain your weekly Toggl time tracking stats
+- [waka-box-go](https://github.com/YouEclipse/waka-box-go) - Golang implement of waka-box.Update a pinned gist to contain your weekly WakaTime stats.
+- [steam-box](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
 
 ## GitHub
 
