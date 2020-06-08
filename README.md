@@ -19,6 +19,7 @@ Displaying data from external services in a pinned gist.
 
 - [bird-box](https://github.com/matchai/bird-box) - Update a pinned gist to contain the latest tweets of a Twitter user.
 - [waka-box](https://github.com/matchai/waka-box) - Update a pinned gist to contain your weekly WakaTime stats.
+- [waka-box-go](https://github.com/YouEclipse/waka-box-go) - A Golang implementation of waka-box. Update a pinned gist to contain your weekly WakaTime stats.
 - [strava-box](https://github.com/JohnPhamous/strava-box) - Update a pinned gist to contain your YTD exercise metrics from Strava.
 - [music-box](https://github.com/jacc/music-box) - Update a pinned gist to contain your weekly listening report on Last.fm.
 - [rescue-box](https://github.com/joshghent/rescue-box) - Update a pinned gist to contain your daily productivity stats from RescueTime.
@@ -32,7 +33,6 @@ Displaying data from external services in a pinned gist.
 - [youtube-box](https://github.com/SinaKhalili/youtube-box) - Update a pinned gist to show your latest YouTube videos
 - [book-box](https://github.com/amorriscode/book-box) - Update a pinned gist to contain your latest reads from goodreads
 - [toggl-box](https://github.com/tobimori/toggl-box) - Update a pinned gist to contain your weekly Toggl time tracking stats
-- [waka-box-go](https://github.com/YouEclipse/waka-box-go) - Golang implement of waka-box.Update a pinned gist to contain your weekly WakaTime stats.
 - [steam-box](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
 
 ## GitHub
