@@ -34,6 +34,7 @@ Displaying data from external services in a pinned gist.
 - [book-box](https://github.com/amorriscode/book-box) - Update a pinned gist to contain your latest reads from goodreads
 - [toggl-box](https://github.com/tobimori/toggl-box) - Update a pinned gist to contain your weekly Toggl time tracking stats
 - [steam-box](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
+- [codestats-box](https://github.com/Ancientwood/codestats-box) - Update a pinned gist to contain your daily Code::Stats.
 
 ## GitHub
 
