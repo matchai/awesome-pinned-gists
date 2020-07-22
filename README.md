@@ -34,6 +34,7 @@ Displaying data from external services in a pinned gist.
 - [toggl-box](https://github.com/tobimori/toggl-box) - Update a pinned gist to contain your weekly Toggl time tracking stats
 - [steam-box](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
 - [codestats-box](https://github.com/Ancientwood/codestats-box) - Update a pinned gist to contain your daily Code::Stats.
+- [codestats-box-python](https://github.com/aksh1618/codestats-box-python) - A Python implementation of codestats-box. Update a pinned gist to contain your Code::Stats stats.
 - [typeracer-box](https://github.com/tobimori/typeracer-box) - Update a pinned gist to contain your latest TypeRacer races
 
 ## GitHub
