@@ -19,12 +19,12 @@ Displaying data from external services in a pinned gist.
 
 - [bird-box](https://github.com/matchai/bird-box) - Update a pinned gist to contain the latest tweets of a Twitter user.
 - [waka-box](https://github.com/matchai/waka-box) - Update a pinned gist to contain your weekly WakaTime stats.
+- [waka-box-go](https://github.com/YouEclipse/waka-box-go) - A Golang implementation of waka-box. Update a pinned gist to contain your weekly WakaTime stats.
 - [strava-box](https://github.com/JohnPhamous/strava-box) - Update a pinned gist to contain your YTD exercise metrics from Strava.
 - [music-box](https://github.com/jacc/music-box) - Update a pinned gist to contain your weekly listening report on Last.fm.
 - [rescue-box](https://github.com/joshghent/rescue-box) - Update a pinned gist to contain your daily productivity stats from RescueTime.
 - [neko-box](https://github.com/RangerDigital/neko-box) - Update a pinned gist to contain the latest activity from AniList.
 - [douban-box](https://github.com/CodeDaraW/douban-box) - Update a pinned gist to contain the latest user status about books/movies/music from Douban.
-- [todoist-box](https://github.com/yg/todoist-box) - Update a pinned gist to contain your Todoist stats.
 - [movie-box](https://github.com/LuisAlejandro/movie-box) - Update a pinned gist to contain your media center stats from Trakt.tv.
 - [productive-box](https://github.com/maxam2017/productive-box) - Update a pinned gist to contain your most productive hours during the day.
 - [covid-box](https://github.com/puf17640/covid-box) - Update a gist to contain global or country specific coronavirus stats.
@@ -32,6 +32,8 @@ Displaying data from external services in a pinned gist.
 - [youtube-box](https://github.com/SinaKhalili/youtube-box) - Update a pinned gist to show your latest YouTube videos
 - [book-box](https://github.com/amorriscode/book-box) - Update a pinned gist to contain your latest reads from goodreads
 - [toggl-box](https://github.com/tobimori/toggl-box) - Update a pinned gist to contain your weekly Toggl time tracking stats
+- [steam-box](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
+- [codestats-box](https://github.com/Ancientwood/codestats-box) - Update a pinned gist to contain your daily Code::Stats.
 - [typeracer-box](https://github.com/tobimori/typeracer-box) - Update a pinned gist to contain your latest TypeRacer races
 
 ## GitHub
@@ -39,7 +41,7 @@ Displaying data from external services in a pinned gist.
 Displaying more detailed GitHub user data in a pinned gist.
 
 - [activity-box](https://github.com/JasonEtco/activity-box) - Update a pinned gist to contain the latest activity of a GitHub user.
-- [gh-box](https://github.com/yg/gh-box) - Update a pinned gist to contain your GitHub profile data.
+- [gh-box](https://github.com/sciencepal/Gist_GHData) - Update a pinned gist to contain your GitHub profile data.
 
 ## Resources
 
