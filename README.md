@@ -39,6 +39,7 @@ Displaying data from external services in a pinned gist.
 - [codestats-box-python](https://github.com/aksh1618/codestats-box-python) - A Python implementation of codestats-box. Update a pinned gist to contain your Code::Stats stats.
 - [typeracer-box](https://github.com/tobimori/typeracer-box) - Update a pinned gist to contain your latest TypeRacer races
 - [chess-com-box-py](https://github.com/sciencepal/chess-com-box-py) - Update a pinned gist to contain your Chess.com Ratings.
+- [lichess-gist](https://github.com/swimmy4days/lichess-gist) - Update a gist to contain your Lichess.org Ratings.
 
 ## GitHub
 
