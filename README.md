@@ -39,13 +39,13 @@ Displaying data from external services in a pinned gist.
 - [codestats-box-python](https://github.com/aksh1618/codestats-box-python) - A Python implementation of codestats-box. Update a pinned gist to contain your Code::Stats stats.
 - [typeracer-box](https://github.com/tobimori/typeracer-box) - Update a pinned gist to contain your latest TypeRacer races
 - [chess-com-box-py](https://github.com/sciencepal/chess-com-box-py) - Update a pinned gist to contain your Chess.com Ratings.
+- [medium-stat-box](https://github.com/kylemocode/medium-stat-box) - Update a pinned gist to show your medium stats and latest articles
 
 ## GitHub
 
 Displaying more detailed GitHub user data in a pinned gist.
 
 - [activity-box](https://github.com/JasonEtco/activity-box) - Update a pinned gist to contain the latest activity of a GitHub user.
-- [gh-box](https://github.com/sciencepal/Gist_GHData) - Update a pinned gist to contain your GitHub profile data.
 - [productive-box](https://github.com/maxam2017/productive-box) - Update a pinned gist to contain your most productive hours during the day.
 - [github-stats-box](https://github.com/bokub/github-stats-box) - Update a pinned gist to contain your GitHub statistics.
 
