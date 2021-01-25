@@ -46,7 +46,6 @@ Displaying data from external services in a pinned gist.
 Displaying more detailed GitHub user data in a pinned gist.
 
 - [activity-box](https://github.com/JasonEtco/activity-box) - Update a pinned gist to contain the latest activity of a GitHub user.
-- [gh-box](https://github.com/sciencepal/Gist_GHData) - Update a pinned gist to contain your GitHub profile data.
 - [productive-box](https://github.com/maxam2017/productive-box) - Update a pinned gist to contain your most productive hours during the day.
 - [github-stats-box](https://github.com/bokub/github-stats-box) - Update a pinned gist to contain your GitHub statistics.
 
