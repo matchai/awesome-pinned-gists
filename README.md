@@ -42,6 +42,7 @@ Displaying data from external services in a pinned gist.
 - [chess-com-box-py](https://github.com/sciencepal/chess-com-box-py) - Update a pinned gist to contain your Chess.com Ratings.
 - [blog-box](https://github.com/Aveek-Saha/blog-box) - Update a pinned gist to show your latest dev.to blog post.
 - [medium-stat-box](https://github.com/kylemocode/medium-stat-box) - Update a pinned gist to show your medium stats and latest articles.
+- [hitokoto-box](https://github.com/greenhandatsjtu/hitokoto-box) - Update a pinned gist to contain a random hitokoto.
 
 ## GitHub
 
