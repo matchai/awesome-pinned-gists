@@ -43,6 +43,7 @@ Displaying data from external services in a pinned gist.
 - [blog-box](https://github.com/Aveek-Saha/blog-box) - Update a pinned gist to show your latest dev.to blog post.
 - [medium-stat-box](https://github.com/kylemocode/medium-stat-box) - Update a pinned gist to show your medium stats and latest articles.
 - [hitokoto-box](https://github.com/greenhandatsjtu/hitokoto-box) - Update a pinned gist to contain a random hitokoto.
+- [spotify-box](https://github.com/Aveek-Saha/spotify-box) - Update a pinned gist to show your weekly/monthly/all-time top Spotify tracks/artists.
 
 ## GitHub
 
