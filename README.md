@@ -27,6 +27,7 @@ Displaying data from external services in a pinned gist.
 - [bilibili-box](https://github.com/KeJunMao/bilibili-box) - Update a pinned gist to contain your latest Bilibili videos.
 - [rescue-box](https://github.com/joshghent/rescue-box) - Update a pinned gist to contain your daily productivity stats from RescueTime.
 - [neko-box](https://github.com/RangerDigital/neko-box) - Update a pinned gist to contain the latest activity from AniList.
+- [mal-box](https://github.com/jckli/mal-box) - Update a pinned gist to contain your latest activity from MyAnimeList.
 - [douban-box](https://github.com/CodeDaraW/douban-box) - Update a pinned gist to contain the latest user status about books/movies/music from Douban.
 - [movie-box](https://github.com/LuisAlejandro/movie-box) - Update a pinned gist to contain your media center stats from Trakt.tv.
 - [covid-box](https://github.com/puf17640/covid-box) - Update a gist to contain global or country specific coronavirus stats.
@@ -43,7 +44,6 @@ Displaying data from external services in a pinned gist.
 - [blog-box](https://github.com/Aveek-Saha/blog-box) - Update a pinned gist to show your latest dev.to blog post.
 - [medium-stat-box](https://github.com/kylemocode/medium-stat-box) - Update a pinned gist to show your medium stats and latest articles.
 - [hitokoto-box](https://github.com/greenhandatsjtu/hitokoto-box) - Update a pinned gist to contain a random hitokoto.
-- [mal-box](https://github.com/jckli/mal-box) - Update a pinned gist to contain your latest activity from MyAnimeList.
 
 ## GitHub
 
