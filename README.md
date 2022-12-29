@@ -45,6 +45,7 @@ Displaying data from external services in a pinned gist.
 - [hitokoto-box](https://github.com/greenhandatsjtu/hitokoto-box) - Update a pinned gist to contain a random hitokoto.
 - [spotify-box](https://github.com/Aveek-Saha/spotify-box) - Update a pinned gist to show your weekly/monthly/all-time top Spotify tracks/artists.
 - [spotify-gist](https://github.com/mporracindie/spotify-gist) - Update a pinned gist to contain your monthly top artist on Spotify.
+- [leetcode-box](https://github.com/puiiyuen/leetcode-box) - Update a pinned gist to show your LeetCode stats.
 
 ## GitHub
 
