@@ -49,6 +49,8 @@ Displaying data from external services in a pinned gist.
 - [leetcode-box](https://github.com/puiiyuen/leetcode-box) - Update a pinned gist to show your LeetCode stats.
 - [shodan-exposure-box](https://github.com/ChrisCarini/shodan-exposure-box) - Update a pinned gist containing the top used ports as observed by [Shodan](https://www.shodan.io/).
 - [trivia-box](https://github.com/ChrisCarini/trivia-box) - Update a pinned gist with a daily trivia question from Open Trivia DB.
+- [leetcode-solved-box](https://github.com/Pudding124/leetcode-solved-box) - Update a pinned gist to show leetcode solved problem.
+- [stackoverflow-stats-box](https://github.com/Pudding124/stackoverflow-stats-box) - Update a pinned gist to show stack overflow stats.
 
 ## GitHub
 
