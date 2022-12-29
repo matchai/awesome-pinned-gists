@@ -51,6 +51,7 @@ Displaying data from external services in a pinned gist.
 - [trivia-box](https://github.com/ChrisCarini/trivia-box) - Update a pinned gist with a daily trivia question from Open Trivia DB.
 - [leetcode-solved-box](https://github.com/Pudding124/leetcode-solved-box) - Update a pinned gist to show leetcode solved problem.
 - [stackoverflow-stats-box](https://github.com/Pudding124/stackoverflow-stats-box) - Update a pinned gist to show stack overflow stats.
+- [mdl-watching-box](https://github.com/facalz/mdl-watching-box) - Update a pinned gist to contain your currently watching.
 
 ## GitHub
 
