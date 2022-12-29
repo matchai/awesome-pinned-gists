@@ -48,6 +48,7 @@ Displaying data from external services in a pinned gist.
 - [spotify-gist](https://github.com/mporracindie/spotify-gist) - Update a pinned gist to contain your monthly top artist on Spotify.
 - [leetcode-box](https://github.com/puiiyuen/leetcode-box) - Update a pinned gist to show your LeetCode stats.
 - [shodan-exposure-box](https://github.com/ChrisCarini/shodan-exposure-box) - Update a pinned gist containing the top used ports as observed by [Shodan](https://www.shodan.io/).
+- [trivia-box](https://github.com/ChrisCarini/trivia-box) - Update a pinned gist with a daily trivia question from Open Trivia DB.
 
 ## GitHub
 
