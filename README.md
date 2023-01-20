@@ -53,9 +53,9 @@ Displaying more detailed GitHub user data in a pinned gist.
 - [github-stats-box](https://github.com/bokub/github-stats-box) - Update a pinned gist to contain your GitHub statistics.
 - [lang-box](https://github.com/inokawa/lang-box) - Update a pinned gist to contain languages of your recent commits in GitHub
 
-## Custom
+## User Defined
 
-Displaying data from user-defined content in a pinned gist.
+Displaying data from user-defined (e.g. configured in the GitHub Action input parameters) content in a pinned gist.
 
 - [date-box](https://github.com/kf-liu/date-box) - Update a pinned gist to contain your anniversaries and countdown days (or hours).
 
