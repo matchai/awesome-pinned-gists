@@ -66,6 +66,12 @@ Displaying more detailed GitHub user data in a pinned gist.
 - [lang-box](https://github.com/inokawa/lang-box) - Update a pinned gist to contain languages of your recent commits in GitHub
 - [productive-box](https://github.com/maxam2017/productive-box) - Update a pinned gist to contain your most productive hours during the day.
 
+## User Defined
+
+Displaying data from user-defined (e.g. configured in the GitHub Action input parameters) content in a pinned gist.
+
+- [date-box](https://github.com/kf-liu/date-box) - Update a pinned gist to contain your anniversaries and countdown days (or hours).
+
 ## Resources
 
 Resources for keeping pinned gists updated.
