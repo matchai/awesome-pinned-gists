@@ -51,6 +51,7 @@ Displaying data from external services in a pinned gist.
 - [stackoverflow-stats-box](https://github.com/Pudding124/stackoverflow-stats-box) - Update a pinned gist to show stack overflow stats.
 - [steam-box](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
 - [strava-box](https://github.com/JohnPhamous/strava-box) - Update a pinned gist to contain your YTD exercise metrics from Strava.
+- [todoist-box](https://github.com/joshghent/todoist-box) - Update a pinned gist to contain your Todoist productivity stats
 - [toggl-box](https://github.com/tobimori/toggl-box) - Update a pinned gist to contain your weekly Toggl time tracking stats
 - [trivia-box](https://github.com/ChrisCarini/trivia-box) - Update a pinned gist with a daily trivia question from Open Trivia DB.
 - [typeracer-box](https://github.com/tobimori/typeracer-box) - Update a pinned gist to contain your latest TypeRacer races
