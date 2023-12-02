@@ -29,7 +29,7 @@ Displaying data from external services in a pinned gist.
 - [douban-box](https://github.com/CodeDaraW/douban-box) - Update a pinned gist to contain the latest user status about books/movies/music from Douban.
 - [goodreads-box](https://github.com/mdluo/goodreads-box) - Update a pinned gist to show your currently reading books and progress on Goodreads.
 - [hitokoto-box](https://github.com/greenhandatsjtu/hitokoto-box) - Update a pinned gist to contain a random hitokoto.
-- [hoyolab-box](https://github.com/yangchang-n/HoYoLab-box) - Update a pinned gist to show your Genshin Impact / Honkai: StarRail play stats.
+- [hoyolab-box](https://github.com/yangchang-n/HoYoLab-box) - Update a pinned gist to show your Genshin Impact / Honkai: Star Rail play stats.
 - LeetCode (https://leetcode.com/)
     - [leetcode-box](https://github.com/puiiyuen/leetcode-box) - Update a pinned gist to show your LeetCode stats.
     - [leetcode-solved-box](https://github.com/Pudding124/leetcode-solved-box) - Update a pinned gist to show leetcode solved problem.
