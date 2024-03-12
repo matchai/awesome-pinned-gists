@@ -45,6 +45,7 @@ Displaying data from external services in a pinned gist.
 - [rescue-box](https://github.com/joshghent/rescue-box) - Update a pinned gist to contain your daily productivity stats from RescueTime.
 - [shodan-exposure-box](https://github.com/ChrisCarini/shodan-exposure-box) - Update a pinned gist containing the top used ports as observed by [Shodan](https://www.shodan.io/).
 - [shortcut-box](https://github.com/artemnovichkov/shortcut-box) - Update a pinned gist to contain random IDE shortcut
+- [solvedac-box](https://github.com/abiriadev/solvedac-box) - Update a pinned gist to show [solved.ac](https://solved.ac) profile.
 - Spotify (https://spotify.com/)
     - [spotify-box](https://github.com/izayl/spotify-box) - Update a pinned gist to contain your weekly top tracks on Spotify.
     - [spotify-box](https://github.com/Aveek-Saha/spotify-box) - Update a pinned gist to show your weekly/monthly/all-time top Spotify tracks/artists.
