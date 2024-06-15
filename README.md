@@ -18,6 +18,7 @@
 Displaying data from external services in a pinned gist.
 
 - [bilibili-box](https://github.com/KeJunMao/bilibili-box) - Update a pinned gist to contain your latest Bilibili videos.
+- [bilibili-gist-py](https://github.com/luyanci/bilibili-gist-py) - Update a pinned gist to show your Bilibili stats and your latest videos.
 - [bird-box](https://github.com/matchai/bird-box) - Update a pinned gist to contain the latest tweets of a Twitter user.
 - [blog-box](https://github.com/Aveek-Saha/blog-box) - Update a pinned gist to show your latest dev.to blog post.
 - [book-box](https://github.com/amorriscode/book-box) - Update a pinned gist to contain your latest reads from goodreads
