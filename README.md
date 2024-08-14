@@ -70,6 +70,7 @@ Displaying more detailed GitHub user data in a pinned gist.
 - [activity-box](https://github.com/JasonEtco/activity-box) - Update a pinned gist to contain the latest activity of a GitHub user.
 - [github-stats-box](https://github.com/bokub/github-stats-box) - Update a pinned gist to contain your GitHub statistics.
 - [lang-box](https://github.com/inokawa/lang-box) - Update a pinned gist to contain languages of your recent commits in GitHub
+  - [recent-languages-box](https://github.com/liby/recent-languages-box) - A TypeScript + Bun rewrite of lang-box that updates a pinned gist with your recent GitHub commit language statistics. It offers improved type safety, customizability, and uses a more scientific approach to sorting languages.
 - [productive-box](https://github.com/maxam2017/productive-box) - Update a pinned gist to contain your most productive hours during the day.
 
 ## User Defined
