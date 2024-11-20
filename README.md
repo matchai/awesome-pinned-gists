@@ -37,6 +37,7 @@ Displaying data from external services in a pinned gist.
     - [leetcode-skills-box](https://github.com/tbeachill/leetcode-skills-box) - Update a pinned gist to show your top leetcode skills.
 - [mal-box](https://github.com/jckli/mal-box) - Update a pinned gist to contain your latest activity from MyAnimeList.
 - [medium-stat-box](https://github.com/kylemocode/medium-stat-box) - Update a pinned gist to show your medium stats and latest articles.
+- [monkeytype-box](https://github.com/artemnovichkov/monkeytype-box) - Update a pinned gist with [Monkeytype](https://monkeytype.com) Personal Bests
 - [movie-box](https://github.com/LuisAlejandro/movie-box) - Update a pinned gist to contain your media center stats from Trakt.tv.
 - [music-box](https://github.com/jacc/music-box) - Update a pinned gist to contain your weekly listening report on Last.fm.
 - [neko-box](https://github.com/RangerDigital/neko-box) - Update a pinned gist to contain the latest activity from AniList.
