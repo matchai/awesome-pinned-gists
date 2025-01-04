@@ -81,6 +81,9 @@ Displaying data from user-defined (e.g. configured in the GitHub Action input pa
 
 - [date-box](https://github.com/kf-liu/date-box) - Update a pinned gist to contain your anniversaries and countdown days (or hours).
 
+- [image2grid](https://github.com/kiwamizamurai/image2grid) - Generate for grid-like images/gifs for a GitHub README.
+
+
 ## Resources
 
 Resources for keeping pinned gists updated.
