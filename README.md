@@ -41,6 +41,7 @@ Displaying data from external services in a pinned gist.
 - [monkeytype-box](https://github.com/artemnovichkov/monkeytype-box) - Update a pinned gist with [Monkeytype](https://monkeytype.com) Personal Bests
 - [movie-box](https://github.com/LuisAlejandro/movie-box) - Update a pinned gist to contain your media center stats from Trakt.tv.
 - [music-box](https://github.com/jacc/music-box) - Update a pinned gist to contain your weekly listening report on Last.fm.
+- [nba-box](https://github.com/23seriy/nba-box) - Update a pinned gist to contain your favourite NBA team stats, record, and recent game results.
 - [neko-box](https://github.com/RangerDigital/neko-box) - Update a pinned gist to contain the latest activity from AniList.
 - [netease-music-box](https://github.com/Leecason/netease-music-box) - Update a pinned gist to contain your weekly listening report on Netease Cloud Music.
 - [nintendo-switch-box](https://github.com/Swilder-M/nintendo-switch-box) - Update a pinned gist to contain your Nintendo Switch playtime leaderboard.
