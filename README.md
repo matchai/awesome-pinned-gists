@@ -56,6 +56,7 @@ Displaying data from external services in a pinned gist.
     - [spotify-gist](https://github.com/mporracindie/spotify-gist) - Update a pinned gist to contain your monthly top artist on Spotify.
 - [stackoverflow-stats-box](https://github.com/Pudding124/stackoverflow-stats-box) - Update a pinned gist to show stack overflow stats.
 - [steam-box](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
+- [steam-recent-games-box](https://github.com/YunJuho0010/Steam-Recent-Games-Box) - Update a pinned gist to contain your most recently played Steam game.
 - [strava-box](https://github.com/JohnPhamous/strava-box) - Update a pinned gist to contain your YTD exercise metrics from Strava.
 - [todoist-box](https://github.com/joshghent/todoist-box) - Update a pinned gist to contain your Todoist productivity stats
 - [toggl-box](https://github.com/tobimori/toggl-box) - Update a pinned gist to contain your weekly Toggl time tracking stats
