@@ -37,6 +37,7 @@ Displaying data from external services in a pinned gist.
     - [leetcode-solved-box](https://github.com/Pudding124/leetcode-solved-box) - Update a pinned gist to show leetcode solved problem.
     - [leetcode-skills-box](https://github.com/tbeachill/leetcode-skills-box) - Update a pinned gist to show your top leetcode skills.
 - [mal-box](https://github.com/jckli/mal-box) - Update a pinned gist to contain your latest activity from MyAnimeList.
+- [MapleStory-Pin-Box](https://github.com/YunJuho0010/MapleStory-Pin-Box) - Update a pinned gist to show your MapleStory (KMS) character's level, job, combat power, and server.
 - [medium-stat-box](https://github.com/kylemocode/medium-stat-box) - Update a pinned gist to show your medium stats and latest articles.
 - [monkeytype-box](https://github.com/artemnovichkov/monkeytype-box) - Update a pinned gist with [Monkeytype](https://monkeytype.com) Personal Bests
 - [movie-box](https://github.com/LuisAlejandro/movie-box) - Update a pinned gist to contain your media center stats from Trakt.tv.
