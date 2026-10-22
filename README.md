@@ -65,6 +65,7 @@ Displaying data from external services in a pinned gist.
     - [waka-box](https://github.com/matchai/waka-box) - Update a pinned gist to contain your weekly WakaTime stats.
     - [waka-box-go](https://github.com/YouEclipse/waka-box-go) - A Golang implementation of waka-box. Update a pinned gist to contain your weekly WakaTime stats.
 - [youtube-box](https://github.com/SinaKhalili/youtube-box) - Update a pinned gist to show your latest YouTube videos
+- [storygraph-box](https://github.com/chindris-mihai-alexandru/storygraph-box) - Update a pinned gist to contain your latest StoryGraph reads, listens and Audible listening time.
 
 ## GitHub
 
